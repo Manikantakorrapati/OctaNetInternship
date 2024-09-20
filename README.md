@@ -90,6 +90,3 @@ This project is a basic version, but contributions are welcome to extend its fea
 
 This project is for educational purposes as part of an internship task. You are free to modify and use it as needed.
 
----
-
-This README provides an overview of the project, instructions on running it, and suggestions for potential improvements.
